@@ -120,5 +120,4 @@ function spawnObstacles()
   default:break
  }
  }
-obstacle.lifetime=200
 }
